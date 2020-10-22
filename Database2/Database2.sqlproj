@@ -67,6 +67,7 @@
     <Build Include="dbo\Tables\Employee.sql" />
     <Build Include="dbo\Tables\Users.sql" />
     <Build Include="Security\https___azasstaexnseq00035ewdl.blob.core.windows.net_sqldbauditlogs.sql" />
+    <Build Include="dbo\Tables\Student.sql" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Table1.sql" />
